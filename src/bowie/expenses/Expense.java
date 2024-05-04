@@ -4,16 +4,17 @@ public class Expense {
     private String expType;
     private double expValue;
 
+    // Constructor
     public Expense(String expType, double expValue) {
         this.expType = expType;
         this.expValue = expValue;
     }
 
-    public String getType() {
+    public String getExpType() {
         return expType;
     }
 
-    public double getValue() {
+    public double getExpValue() {
         return expValue;
     }
 

@@ -1,4 +1,4 @@
-package bowie.expenses;
+package bowie.balance.incomes;
 
 public class Income {
     private String incType;

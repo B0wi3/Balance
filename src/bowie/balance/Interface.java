@@ -1,4 +1,7 @@
-package bowie.expenses;
+package bowie.balance;
+
+import bowie.balance.expenses.ExpenseManager;
+import bowie.balance.incomes.IncomeManager;
 
 import java.util.Scanner;
 

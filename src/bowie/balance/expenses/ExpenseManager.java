@@ -1,4 +1,4 @@
-package bowie.expenses;
+package bowie.balance.expenses;
 
 import java.util.ArrayList;
 import java.util.List;

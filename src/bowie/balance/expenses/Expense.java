@@ -1,4 +1,4 @@
-package bowie.expenses;
+package bowie.balance.expenses;
 
 public class Expense {
     private String expType;
